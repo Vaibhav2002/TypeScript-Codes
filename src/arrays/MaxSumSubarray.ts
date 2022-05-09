@@ -12,4 +12,4 @@ function getMaxSumSubarray(a:number[]):number{
 var nums:number[] = [1, 2, 4, -1, -30, 0, 4];
 var maxSum = getMaxSumSubarray(nums);
 console.log(maxSum)
-console.log(isPrime(maxSum)?"PrimeNumber":"Not PrimeNumber")
+console.log(isPrime(maxSum)?"Prime Number":"Not Prime Number")
