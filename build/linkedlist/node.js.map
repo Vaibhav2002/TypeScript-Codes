@@ -1,0 +1,1 @@
+{"version":3,"file":"node.js","sourceRoot":"","sources":["../../src/linkedlist/node.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,IAAI;IAIb,YAAY,IAAW,EAAE,OAAY,IAAI;QACrC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;QAChB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;IACpB,CAAC;CACJ"}

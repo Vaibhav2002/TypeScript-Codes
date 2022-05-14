@@ -1,0 +1,1 @@
+{"version":3,"file":"weighted_edge.js","sourceRoot":"","sources":["../../src/graphs/weighted_edge.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,IAAI;IAIrB,YAAY,IAAW,EAAE,MAAa;QAClC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;QAChB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAA;IACxB,CAAC;CACJ"}
